@@ -790,7 +790,7 @@ section .wwo {
 }
 
 .footer{
-    background: #222 url(../images/footer.bg.jpg) no-repeat;
+    background: #222 url(../images/footer.bg.webp) no-repeat;
     padding-top: 50px;
     padding-bottom: 50px;
     background-size: cover;

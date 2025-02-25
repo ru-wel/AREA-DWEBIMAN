@@ -23,7 +23,7 @@ include 'auth.php';
 
     <?php include "header.php"; ?>
 
-    <div class="heading" style="background:url(images/header-bg-2.jpg) no-repeat">
+    <div class="heading" style="background:url(images/header-bg-2.webp) no-repeat">
         <h1>PLACES TO STAY</h1>
     </div>
 

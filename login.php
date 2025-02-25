@@ -72,7 +72,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
     <div class="limiter">
 
-		<div class="container-login100" style="background-image: url('images/home-slide-3.jpg');">
+		<div class="container-login100" style="background-image: url('images/home-slide-3.webp');">
 
 			<div class="wrap-login100">
 

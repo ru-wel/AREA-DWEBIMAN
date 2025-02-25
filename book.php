@@ -174,7 +174,7 @@ $row = mysqli_fetch_row($query);
 
     <?php include "header.php"; ?>
 
-    <div class="heading" style="background:url(images/header-bg-3.jpg) no-repeat">
+    <div class="heading" style="background:url(images/header-bg-3.webp) no-repeat">
         <h1>Booking</h1>
     </div>
 
@@ -187,7 +187,7 @@ $row = mysqli_fetch_row($query);
 													
         ?>
 
-		<div class="container-login100-2" style="background-image: url('images/home-slide-3.jpg');">
+		<div class="container-login100-2" style="background-image: url('images/home-slide-3.webp');">
 
 			<div class="wrap-login100-2">
 

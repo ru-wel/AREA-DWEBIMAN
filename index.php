@@ -35,7 +35,7 @@ include 'auth.php';
 
             <div class="swiper-wrapper">
 
-                <div class="swiper-slide slide" style="background:url(images/home-slide-1.jpg) no-repeat"> 
+                <div class="swiper-slide slide" style="background:url(images/home-slide-1.webp) no-repeat"> 
 
                     <div class="content">
                         <span>explore, discover, travel</span>
@@ -45,7 +45,7 @@ include 'auth.php';
 
                 </div>
 
-                <div class="swiper-slide slide" style="background:url(images/home-slide-2.jpg) no-repeat">
+                <div class="swiper-slide slide" style="background:url(images/home-slide-2.webp) no-repeat">
 
                     <div class="content">
                         <span>explore, discover, travel</span>
@@ -55,7 +55,7 @@ include 'auth.php';
 
                 </div>
 
-                <div class="swiper-slide slide" style="background:url(images/home-slide-3.jpg) no-repeat">
+                <div class="swiper-slide slide" style="background:url(images/home-slide-3.webp) no-repeat">
 
                     <div class="content">
                         <span>explore, discover, travel</span>
@@ -180,7 +180,7 @@ include 'auth.php';
         <div class="container2">
 
           <figure class="about-banner">
-            <img class = "img-why" src ="images/why-choose-us.jpg" alt="Why Choose Us" id="tv">
+            <img class = "img-why" src ="images/why-choose-us.webp" alt="Why Choose Us" id="tv">
           </figure>
 
           <div class="about-content">

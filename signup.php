@@ -65,7 +65,7 @@
     </header>
 
     <div class="limiter">
-		<div class="container-login100" style="background-image: url('images/bg-01.jpg');">
+		<div class="container-login100" style="background-image: url('images/bg-01.webp');">
 			<div class="wrap-login100">
 
 				<form class="login100-form validate-form" action="signup_process.php" method="post">
